@@ -4,7 +4,7 @@ Bu proje, dünyanın en sert adamı Chuck Norris'in efsanevi şakalarını göst
 
 
 ## Canlı Önizleme
-[Buraya GitHub Pages Linkini Yapıştır]
+[https://github.com/mustafaugur1991-cmyk/Chuck_Norris_Teslim_Et.git]
 
 
 ### Ekran Görüntüsü
