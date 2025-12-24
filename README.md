@@ -1,4 +1,4 @@
-# Chuck Norris Şaka Makinesi 🤠
+# Chuck Norris Şaka Makinesi
 
 Bu proje, dünyanın en sert adamı Chuck Norris'in efsanevi şakalarını gösteren interaktif bir web sitesidir.
 
